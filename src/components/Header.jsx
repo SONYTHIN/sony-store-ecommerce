@@ -14,7 +14,7 @@ function Header() {
                     <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
                     </svg>
                 </button>
-                <h2 className="font-bold text-red-500"> Mr.Sony Store</h2>
+                <h2 className="font-bold text-red-500"> Mr.SONY STORE</h2>
             </div>
 
             <ul className="hidden lg:flex items-center gap-4">
