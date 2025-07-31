@@ -21,7 +21,7 @@ function Home() {
 
   return (
     <div className="font-jost">
-      <div className="bg-[url(./images/bg.png)] bg-gray-200 bg-center bg-cover lg:bg-contain bg-no-repeat flex items-center h-screen px-4 lg:px-40">
+      <div style={{backgroundImage:"url('./images/bg.png')"}} className="bg-gray-200 bg-center bg-cover lg:bg-contain bg-no-repeat flex items-center h-screen px-4 lg:px-40">
         <div className="ml-3">
           <h2 className="text-exl font-bold"> New Collection </h2>
           <h1 className="text-2xl lg:text-5xl font-bold mb-2">
